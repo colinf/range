@@ -10,6 +10,7 @@
   The current differences from component/range are as follows:
 
   * Adds step argument to additionally support ranges which do not increment by +1
+  * Defaults to step of -1 if end is less than start
 
 ## Installation
 
