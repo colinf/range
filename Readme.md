@@ -3,6 +3,14 @@
 
   Return a range of integers
 
+## Differences from component/range ##
+
+  This is a fork from [component/range](https://github.com/component/range) and unless you need any of the differences listed below, it would be better to use component/range as a dependency in your project.
+
+  The current differences from component/range are as follows:
+
+  * Adds step argument to additionally support ranges which do not increment by +1
+
 ## Installation
 
     $ component install component/range
